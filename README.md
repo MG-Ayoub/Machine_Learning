@@ -1,2 +1,2 @@
-# Deep_Learning
-Just for learning DL
+# Machine_Learning
+Just for learning ML
